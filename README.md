@@ -15,3 +15,11 @@
   <img src="https://img.shields.io/badge/Telegram-%40-0088cc.svg" alt="Telegram">
   </a>
 </div>
+### :man_technologist: About Me :
+---
+
+### :hammer_and_wrench: Languages and Tools :
+I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+![Phyton](https://img.shields.io/badge/Phyton-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=typescript&logoColor=white)
+![ML](https://img.shields.io/badge/MachineLearning-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
